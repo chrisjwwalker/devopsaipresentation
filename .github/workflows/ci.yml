@@ -17,6 +17,7 @@ concurrency:
 
 # This baseline workflow is intentionally simple so participants can identify
 # clear optimisation opportunities during the workshop.
+# risk-gate test: no-go band
 jobs:
   build:
     runs-on: ubuntu-latest

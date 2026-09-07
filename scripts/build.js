@@ -1,5 +1,6 @@
 const _ = require("lodash");
 
+// risk-gate test: no-go band
 const start = Date.now();
 
 function wait(ms) {
